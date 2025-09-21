@@ -5,6 +5,13 @@ int main(){
     cout<<"So imma make some changes"<<endl;
     cout<<"Few more chnages"<<endl;
     cout<<"SOME CHANGES ARE BEING MADE UNDER THE NAME OF FEATURE1, BEWARE"<<endl;
-   
+    cout<<"SOME CHANGES ARE BEING MADE UNDER THE NAME OF FEATURE1, BEWARE"<<endl;
+     cout<<"SOME CHANGES ARE BEING MADE UNDER THE NAME OF FEATURE1, BEWARE"<<endl;
+      cout<<"SOME CHANGES ARE BEING MADE UNDER THE NAME OF FEATURE1, BEWARE"<<endl;
+       cout<<"SOME CHANGES ARE BEING MADE UNDER THE NAME OF FEATURE1, BEWARE"<<endl;
+        cout<<"SOME CHANGES ARE BEING MADE UNDER THE NAME OF FEATURE1, BEWARE"<<endl;
+         cout<<"SOME CHANGES ARE BEING MADE UNDER THE NAME OF FEATURE1, BEWARE"<<endl;
+          cout<<"SOME CHANGES ARE BEING MADE UNDER THE NAME OF FEATURE1, BEWARE"<<endl;
+          
     return 0;
 }

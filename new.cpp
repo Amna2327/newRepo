@@ -4,6 +4,8 @@ int main(){
     cout<<"Hello universe"<<endl;
     cout<<"So imma make some changes"<<endl;
     cout<<"Few more chnages"<<endl;
-    cout<<"SO IMMA MAKE SOME CHNAGES TO ENSURE THAT MY BRANCHES ARE WORKING FINE AND INDEPENDENTLY"<<endl;
+    cout<<"Voila"<<endl;
+    cout<<"Let me makesomechanges"<<endl;
+    cout<<"The xtra stuff"<<endl;
     return 0;
 }
